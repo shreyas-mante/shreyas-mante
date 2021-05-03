@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Shreyas
 
-- 👨 Problem Setter at CodeDrills
-- 🔭 I’m currently working on Android Development Projects
-- 🌱 I’m currently learning Advanced Competitive Programming Concepts
-- 👯 I’m looking to collaborate on Android Development Projects
+- 👨 Problem Setter at CodeDrills.
+- 🔭 I’m currently working on Android Development Projects.
+- 🌱 I’m currently learning Advanced Competitive Programming Concepts.
+- 👯 I’m looking to collaborate on Android Development Projects & Algorithmic Problems.
 - 📫 How to reach me: [shreyas.mante@gmail.com](mailto:shreyas.mante@gmail.com)
 
 
