@@ -21,7 +21,7 @@
 <br>
 
 
-### Competitive Handles :
+### Programming Profiles :
 
 
 <img align="left" alt="shreyas-mante | Twitter" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> Codeforces : [im__back](https://codeforces.com/profile/im__back)
