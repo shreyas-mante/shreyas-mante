@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shreyas
 
-- 👨 Problem Setter at CodeDrills.
+- 👨 Problem Setter at iMocha.
 - 🔭 I’m currently working on Android Development Projects.
 - 🌱 I’m currently learning Advanced Competitive Programming Concepts.
 - 👯 I’m looking to collaborate on Android Development Projects & Algorithmic Problems.
