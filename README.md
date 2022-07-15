@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Shreyas
 
-- 👨 Problem Setter at iMocha.
-- 🔭 I’m currently working on Android Development Projects.
+- 👨 SDE - I at Paytm Money.
+- 🔭 I’m currently working as a Backend Developer.
 - 🌱 I’m currently learning Advanced Competitive Programming Concepts.
-- 👯 I’m looking to collaborate on Android Development Projects & Algorithmic Problems.
+- 👯 I’m looking to collaborate on Development Projects & Algorithmic Problems.
 - 📫 How to reach me: Email - [shreyas.mante@gmail.com](mailto:shreyas.mante@gmail.com) Linkedin - [Shreyas Mante](https://www.linkedin.com/in/shreyas-mante/)
 
 
