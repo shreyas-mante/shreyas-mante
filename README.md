@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shreyas
 
-- 👨 SDE - I at Paytm Money.
+- 👨 SDE - II at Oracle.
 - 🔭 I’m currently working as a Backend Developer.
 - 🌱 I’m currently learning Advanced Competitive Programming Concepts.
 - 👯 I’m looking to collaborate on Development Projects & Algorithmic Problems.
